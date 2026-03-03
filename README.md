@@ -10,16 +10,16 @@
 
 ---
 
-## 🧬 **About Me**
+##  **About Me**
 
 Hi! I’m **Tanupriya**, an aspiring Machine Learning Engineer focused on building practical AI systems, predictive models, and intelligent data-driven applications.
 
 I enjoy:
-- 🔍 Transforming raw data into actionable insights  
-- 🤖 Building end-to-end ML and LLM-powered systems  
-- 📊 Designing analytical dashboards for decision-making  
-- 🧠 Developing predictive models for real-world problems  
-- 🚀 Creating user-focused AI applications 
+-  Transforming raw data into actionable insights  
+-  Building end-to-end ML and LLM-powered systems  
+-  Designing analytical dashboards for decision-making  
+-  Developing predictive models for real-world problems  
+-  Creating user-focused AI applications 
 
 I focus on building scalable, explainable, and impactful AI solutions that translate data into measurable outcomes. Every project I build strengthens my ability to bridge data science with real-world applications.
 
@@ -30,7 +30,7 @@ I focus on building scalable, explainable, and impactful AI solutions that trans
 
 ---
 
-## ⚡ **Tech Stack**
+##  **Tech Stack**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,git,github,sqlite,mysql,powershell,vscode" height="50"/>  
@@ -41,7 +41,7 @@ I focus on building scalable, explainable, and impactful AI solutions that trans
 </p>
 
 ---
-## 🚀 **Core Areas of Focus**
+##  **Core Areas of Focus**
 - End-to-end Machine Learning pipelines  
 - Deep Learning & CNN-based systems  
 - LLM-powered intelligent applications  
@@ -51,7 +51,7 @@ I focus on building scalable, explainable, and impactful AI solutions that trans
 
 ---
 
-## 🛰 **Let’s Connect**
+##  **Let’s Connect**
 
 <p align="center">
   <a href="mailto:tanu.priya28042@gmail.com">
@@ -65,4 +65,4 @@ I focus on building scalable, explainable, and impactful AI solutions that trans
 
 ---
 <h2 align="center">“Data writes the story. AI predicts the next chapter.” </h2>
-<p align="center">Let’s build something futuristic together 🚀</p>
+<p align="center">Let’s build something futuristic together </p>
