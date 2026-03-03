@@ -12,18 +12,16 @@
 
 ## 🧬 **About Me**
 
-Hi! I’m **Tanupriya**, a passionate learner exploring the exciting world of  
-**Data Science, Machine Learning, Analytics, and AI Engineering**.
+Hi! I’m **Tanupriya**, an aspiring Machine Learning Engineer focused on building practical AI systems, predictive models, and intelligent data-driven applications.
 
 I enjoy:
-- 🔍 Turning messy datasets into meaningful insights  
-- 🤖 Building automated tools powered by ML + LLMs  
-- 📊 Designing dashboards that communicate stories  
-- 🧠 Solving real-world problems using data-driven thinking  
-- 🚀 Experimenting with AI models and creating user-friendly apps  
+- 🔍 Transforming raw data into actionable insights  
+- 🤖 Building end-to-end ML and LLM-powered systems  
+- 📊 Designing analytical dashboards for decision-making  
+- 🧠 Developing predictive models for real-world problems  
+- 🚀 Creating user-focused AI applications 
 
-I genuinely believe that **AI + Data together can solve some of the biggest problems** in businesses, careers, and society.  
-Every project I build is a step toward that future.
+I focus on building scalable, explainable, and impactful AI solutions that translate data into measurable outcomes. Every project I build strengthens my ability to bridge data science with real-world applications.
 
 <p align="center">
   <em>“The future isn’t something we wait for — it’s something we build.”</em>
@@ -43,14 +41,13 @@ Every project I build is a step toward that future.
 </p>
 
 ---
-
-## 🛸 **What I’m Building / Learning**
-- Machine Learning  
-- LLM-powered applications  
-- Dashboards (Excel + Power BI)  
-- EDA & Automation  
-- SQL mastery  
-- AI agents & smart data tools  
+## 🚀 **Core Areas of Focus**
+- End-to-end Machine Learning pipelines  
+- Deep Learning & CNN-based systems  
+- LLM-powered intelligent applications  
+- Time-series forecasting & predictive analytics  
+- SQL-driven data analysis & dashboard design  
+- Scalable AI system development
 
 ---
 
